@@ -1,12 +1,12 @@
 [
   {
     "repository":  "Wzedlare/android_kernel_motorola_msm8953",
-    "target_path": "kernel/motorola/msm8953"
+    "target_path": "kernel/motorola/msm8953",
     "branch":      "cm-14.1"
   },
   {
     "repository":  "Wzedlare/android_vendor_motorola_cedric",
-    "target_path": "vendor/motorola/cedric"
+    "target_path": "vendor/motorola/cedric",
     "branch":      "cm-14.1"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
+    "target_path": "packages/resources/devicesettings",
     "branch":      "cm-14.1"
   }
 ]
